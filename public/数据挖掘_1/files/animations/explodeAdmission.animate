@@ -1,0 +1,16 @@
+/* 
+  Name:			ExplodeAdmission
+  Type:			Entrance
+  Description:	ExplodeAdmission Effect
+  Version:		2.0	
+  locale:		{"zh-Hans":"爆炸入场", "en-US":"Bombing"}
+  Class:        ExplodeAdmission
+ */
+ 
+@keyframes explodeAdmission{
+	
+}
+
+.explodeAdmission{
+	animation-duration: 1s;
+}

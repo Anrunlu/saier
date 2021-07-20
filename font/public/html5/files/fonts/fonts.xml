@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <fonts>
+    <font name="LiSu" className="FskyFont_SIMLI" url="./files/fonts/font-0-0-202037123711973.swf" ttfurl="./files/fonts/font-0-0-202037123711973.ttf"/>
+    <font name="STKaiti" className="FskyFont_STKAITI" url="./files/fonts/font-1-0-202037123713936.swf" ttfurl="./files/fonts/font-1-0-202037123713936.ttf"/>
+    <font name="SimSun" className="FskyFont_SIMSUN" url="./files/fonts/font-2-0-202037123714991.swf" ttfurl="./files/fonts/font-2-0-202037123714991.ttf"/>
+  </fonts>
+</data>

@@ -1,0 +1,16 @@
+/* 
+  Name:			CurtainOpen
+  Type:			Entrance
+  Description:	CurtainOpen
+  Version:		2.0	
+  locale:		{"zh-Hans":"幕布拉开", "en-US":"Curtain Open"}
+  Class:        CurtainOpen
+ */
+ 
+@keyframes curtainOpen{
+	
+}
+
+.curtainOpen{
+	animation-duration: 2s;
+}

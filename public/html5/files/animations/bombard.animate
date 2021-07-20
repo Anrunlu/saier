@@ -1,0 +1,16 @@
+/* 
+  Name:			Bombard
+  Type:			Entrance
+  Description:	Bombard Effect
+  Version:		2.0	
+  locale:		{"zh-Hans":"炮击特效", "en-US":"Shelling"}
+  Class:        Bombard
+ */
+ 
+@keyframes bombard{
+	
+}
+
+.bombard{
+	animation-duration: 1s;
+}

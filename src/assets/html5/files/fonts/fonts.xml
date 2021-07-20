@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <fonts>
+    <font name="Droid Sans" className="FskyFont_droidsans" url="./files/fonts/font-0-0-202037103459391.swf" ttfurl="./files/fonts/font-0-0-202037103459391.ttf"/>
+    <font name="Droid Sans" className="FskyFont_droidsans_bold" url="./files/fonts/font-0-1-202037103459465.swf" ttfurl="./files/fonts/font-0-1-202037103459465.ttf"/>
+    <font name="STKaiti" className="FskyFont_STKAITI" url="./files/fonts/font-1-0-202037103459541.swf" ttfurl="./files/fonts/font-1-0-202037103459541.ttf"/>
+    <font name="Times New Roman" className="FskyFont_TIMES" url="./files/fonts/font-2-0-20203710350697.swf" ttfurl="./files/fonts/font-2-0-20203710350697.ttf"/>
+    <font name="Times New Roman" className="FskyFont_TIMESBD" url="./files/fonts/font-2-1-20203710351648.swf" ttfurl="./files/fonts/font-2-1-20203710351648.ttf"/>
+    <font name="Times New Roman" className="FskyFont_TIMESBI" url="./files/fonts/font-2-2-20203710352249.swf" ttfurl="./files/fonts/font-2-2-20203710352249.ttf"/>
+    <font name="Times New Roman" className="FskyFont_TIMESI" url="./files/fonts/font-2-3-20203710352839.swf" ttfurl="./files/fonts/font-2-3-20203710352839.ttf"/>
+    <font name="LiSu" className="FskyFont_SIMLI" url="./files/fonts/font-3-0-20203710353313.swf" ttfurl="./files/fonts/font-3-0-20203710353313.ttf"/>
+  </fonts>
+</data>

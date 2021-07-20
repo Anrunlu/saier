@@ -1,0 +1,16 @@
+/* 
+  Name:			PaperOpening
+  Type:			Entrance
+  Description:	PaperOpening Effect
+  Version:		2.0	
+  locale:		{"zh-Hans":"卷纸拉开", "en-US":"Roll Paper Opening"}
+  Class:        PaperOpening
+ */
+ 
+@keyframes paperOpening{
+	
+}
+
+.paperOpening{
+	animation-duration: 2s;
+}
